@@ -1,2 +1,2 @@
 # hello-world
-This is my very first repo
+Hello there.  I'm Rob and I am learning Data Science.
